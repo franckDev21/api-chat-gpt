@@ -16,7 +16,7 @@ def home():
     return render_template("index.html")
 
 
-@app.route("/prompt", methods=["POST"])
+@app.route("/prompt", methods=["POST"])  # Route api en post
 def prompt():
     messages = request.json["messages"]
     conversation = build_conversation_dict(messages)
