@@ -1,4 +1,4 @@
-# Mon Projet Flask
+# GPT CLONE APP
 
 ## Description
 Ce projet est une api web développée en Python avec le framework Flask. Il sert à montrer comment utiliser l'api d'openIA dans un projet python.
@@ -10,7 +10,7 @@ Ce projet est une api web développée en Python avec le framework Flask. Il ser
    ```
 2. Accédez au répertoire du projet :
    ```bash
-    api-chat-gpt.git
+    cd api-chat-gpt.git
    ```
 3. Installez les dépendances requises :
    ```bash
