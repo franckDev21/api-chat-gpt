@@ -1,4 +1,4 @@
-# GPT CLONE APP
+# GPT CLONE APP 
 
 ## Description
 Ce projet est une api web développée en Python avec le framework Flask. Il sert à montrer comment utiliser l'api d'openIA dans un projet python.
